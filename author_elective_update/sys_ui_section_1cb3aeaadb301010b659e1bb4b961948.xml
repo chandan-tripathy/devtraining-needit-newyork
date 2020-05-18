@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Tab1" section_id="1cb3aeaadb301010b659e1bb4b961948" sys_domain="global" table="x_58872_needit_record_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity_due</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 20:18:48</sys_created_on>
+            <sys_id>5b24a6eadb301010b659e1bb4b961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tab1" display_value="Tab1" name="x_58872_needit_record_table" sys_domain="global" view="Default view">1cb3aeaadb301010b659e1bb4b961948</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 20:18:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_start</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 20:18:48</sys_created_on>
+            <sys_id>db24a6eadb301010b659e1bb4b961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tab1" display_value="Tab1" name="x_58872_needit_record_table" sys_domain="global" view="Default view">1cb3aeaadb301010b659e1bb4b961948</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 20:18:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 20:18:48</sys_created_on>
+            <sys_id>5f24a6eadb301010b659e1bb4b961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tab1" display_value="Tab1" name="x_58872_needit_record_table" sys_domain="global" view="Default view">1cb3aeaadb301010b659e1bb4b961948</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 20:18:48</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_end</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 20:18:48</sys_created_on>
+            <sys_id>df24a6eadb301010b659e1bb4b961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tab1" display_value="Tab1" name="x_58872_needit_record_table" sys_domain="global" view="Default view">1cb3aeaadb301010b659e1bb4b961948</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 20:18:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 20:18:48</sys_created_on>
+            <sys_id>5324a6eadb301010b659e1bb4b961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tab1" display_value="Tab1" name="x_58872_needit_record_table" sys_domain="global" view="Default view">1cb3aeaadb301010b659e1bb4b961948</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 20:18:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Tab1</caption>
+            <header>false</header>
+            <name>x_58872_needit_record_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 20:16:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1cb3aeaadb301010b659e1bb4b961948</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Tab1</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_1cb3aeaadb301010b659e1bb4b961948</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 20:26:45</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>c95ee45adbb8e7c04c1ff70fbf961968</instance_id>
+        <instance_name>dev71288</instance_name>
+        <name>sys_ui_section_1cb3aeaadb301010b659e1bb4b961948</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Tab1" section_id="1cb3aeaadb301010b659e1bb4b961948" sys_domain="global" table="x_58872_needit_record_table" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>activity_due</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 20:18:48</sys_created_on><sys_id>5b24a6eadb301010b659e1bb4b961982</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Tab1" display_value="Tab1" name="x_58872_needit_record_table" sys_domain="global" view="Default view">1cb3aeaadb301010b659e1bb4b961948</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 20:18:48</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_start</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 20:18:48</sys_created_on><sys_id>db24a6eadb301010b659e1bb4b961982</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Tab1" display_value="Tab1" name="x_58872_needit_record_table" sys_domain="global" view="Default view">1cb3aeaadb301010b659e1bb4b961948</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 20:18:48</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 20:18:48</sys_created_on><sys_id>5f24a6eadb301010b659e1bb4b961982</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Tab1" display_value="Tab1" name="x_58872_needit_record_table" sys_domain="global" view="Default view">1cb3aeaadb301010b659e1bb4b961948</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 20:18:48</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_end</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 20:18:48</sys_created_on><sys_id>df24a6eadb301010b659e1bb4b961982</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Tab1" display_value="Tab1" name="x_58872_needit_record_table" sys_domain="global" view="Default view">1cb3aeaadb301010b659e1bb4b961948</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 20:18:48</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>due_date</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 20:18:48</sys_created_on><sys_id>5324a6eadb301010b659e1bb4b961983</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Tab1" display_value="Tab1" name="x_58872_needit_record_table" sys_domain="global" view="Default view">1cb3aeaadb301010b659e1bb4b961948</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 20:18:48</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Tab1</caption><header>false</header><name>x_58872_needit_record_table</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 20:16:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1cb3aeaadb301010b659e1bb4b961948</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Tab1</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_section_1cb3aeaadb301010b659e1bb4b961948</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 20:26:45</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>686614431</payload_hash>
+        <record_name>NeedIT Record</record_name>
+        <reverted_from/>
+        <source>2d40521ddb741010b659e1bb4b9619a3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-18 20:26:45</sys_created_on>
+        <sys_id>b3f5226edb301010b659e1bb4b9619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1722977a2ab0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-18 20:26:45</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>3ff5226e74301010bb9babf65ef6e0ef</update_guid>
+        <update_guid_history>3ff5226e74301010bb9babf65ef6e0ef:686614431,1724a6eab73010103cc56c1d0b892f84:1567955332,e8b3aeaaaa3010103406183c5a040380:-898738752</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-18 20:30:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>64d8f8c13ea5425cb0455fde4e44a3d9</sys_id>
+        <sys_metadata>1cb3aeaadb301010b659e1bb4b961948</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tab1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIT Record">732c9659dbb41010b659e1bb4b9619e6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_1cb3aeaadb301010b659e1bb4b961948</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_1cb3aeaadb301010b659e1bb4b961948">b3f5226edb301010b659e1bb4b9619f0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-18 20:30:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
